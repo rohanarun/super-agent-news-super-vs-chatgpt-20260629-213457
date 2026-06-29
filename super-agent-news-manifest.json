@@ -1,0 +1,32 @@
+{
+  "citations": [
+    "[openai.com](https://openai.com/blog/how-agents-are-transforming-work)",
+    "[axios.com](https://www.axios.com/2026/06/25/codex-agents-mainstream)",
+    "[theeditorial.news](https://theeditorial.news/ai-agents/anthropic-computer-use-vs-openai-operator-vs-google-mariner-72-task-completion-on-osworld-but-on-mqi0zmi8)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[forbes.com](https://www.forbes.com/sites/2026/06/27/gemini-3-5-flash-computer-use-everything-we-know/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-targeting-ai-agents/)",
+    "[bwbusinessworld.com](https://www.businessworld.in/article/60-Of-Indian-Consumers-Want-Personal-AI-Agents-Highest-In-Asia-Pacific-Adobe-Report/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/technology/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)"
+  ],
+  "design_plan": "rng(seed=42)->hero_video, AIDA_pass=true, hero_lines=2.4, grid_dense_verified=true, labels_swept=true, button_contrast_ok=true",
+  "generated_at": "2026-06-29T21:35:04.715793+00:00",
+  "headline": "Super vs ChatGPT \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is the world\u2019s most popular general AI assistant, increasingly adding agent\u2011like features. Super is built for a narrower but deeper job: personal AI agents that operate real computers and reuse a computer-use cache, making repeated workflows more efficient over time. This page compares where each excels, using current reporting as evidence."
+}
